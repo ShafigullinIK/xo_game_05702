@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>14</java.version>
-        <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
     </properties>
     <build>
         <plugins>
