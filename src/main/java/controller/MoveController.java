@@ -7,6 +7,7 @@ public class MoveController {
     public static Figure whoseTurn(Field field) {
         int summa = 0;
         int[][] a = field.getFieldArr();
+
         for (int i = 0; i < a.length; i++) {
             for (int j = 0; j < a[0].length; j++) {
                 summa += a[i][j];
